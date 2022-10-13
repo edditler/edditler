@@ -4,4 +4,10 @@ Hi there 👋, I'm Eddi, and I'm currently working as a PhD student at the Unive
 
 🔭 I'm using and contributing to the [archivy](https://github.com/archivy/archivy) knowledge base repo
 
-🌱 I like learning new stuff. I'm currently going through the `Ray Tracing in One Weekend` series and trying to implement a simple ray tracer in Rust.
+🌱 I like learning new stuff
+- I'm working on an implementation of a [raytracer in Rust](https://github.com/edditler/rayrayray)
+- Sometimes I work on the AI of [my leek](https://github.com/edditler/leekwars) in [leekwars.com](leekwars.com) 
+- I maintain a private Django project for parsing and analyzing my finances
+- I self-host instances of gitea, miniflux, and nitter.
+- I set up a pipeline to build our [group website](http://luber-group.com) using Gitlab and Jekyll.
+- I was also involved in [building](https://vcs.ethz.ch) some [more websites](https://swaz.ethz.ch).
